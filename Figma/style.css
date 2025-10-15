@@ -105,7 +105,7 @@ ul li a:hover{
 }
 .lato{
   font-family: "Lato", sans-serif;
-  font-weight: 100;
+  font-weight: 10;
   font-style: normal;
 }
 .pups h1{
@@ -147,7 +147,7 @@ ul li a:hover{
     justify-content: center;
     align-items: center;
     width: 240%;
-    height: 180px;
+    height: 150px;
 }
 .text{
   font-family: "Lato", sans-serif;
@@ -180,6 +180,7 @@ ul li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 140px;
 }
 .write{
     margin-top: 45px;
@@ -195,7 +196,7 @@ ul li a:hover{
     display: flex;
     justify-content: center;
     width: 175%;
-    height: 255px;
+    height: 250px;
 }
 .third h1{
     color: #177165;
@@ -224,8 +225,140 @@ ul li a:hover{
     justify-content: center;
     width: 100%;
     height:450px ;
+    margin-top: 20px;
 }
-.bb{
+.green{
+    background-image: url(зеленый.png);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.coco{
+    color: white;
+
+}
+.how{
+  font-family: "Lato", sans-serif;
+  font-weight: 10;
+  font-style: normal;
+  margin-top: 35px;
+  margin-left: 300px;
+}
+@font-face {
+        font-family: georgia ;
+        src: url("assets/georgia");
+}
+.hear{
+    font-family: georgia,sans-serif;
+    margin-left: 300px;
+}
+.get{
+    margin-top: 35px;
+    width: 165px;
+    height: 50px;
+    margin-left: 300px;
+    color: white;
+    background-color: #01996D;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 400px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-right: 270px;
+}
+.product{
     display: flex;
     justify-content: end;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width:60%;
+    margin-top: 100px;
+}
+.diary{
+    color: #177165;
+    font-family: georgia,sans-serif;
+    display: flex;
+    justify-content: end;
+    width: 75%;
+    margin-top: 30px;
+
+}
+.everyone{
+    display: flex;
+    justify-content: end;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 78%;
+    margin-top: 30px;
+
+}
+.lg button{
+    background-color: #01996D;
+    color: white;
+    width: 165px;
+    height: 50px;
+    margin-left: 56%;
+    margin-top: 30px;
+}
+.pen{
+    background-image: url(зеленый.png);
+}
+.nok{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 40;
+    font-style: normal;
+    font-size: 25px;
+    width: 37%;
+}
+.nok p{
+    margin-top: 80px;
+}
+.wha{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 37.5%;
+    margin-top: 50px;
+}
+.sol{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 37%;
+    margin-top: 50px;
+}
+.com{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 38%;
+    margin-top: 50px;
+}
+.pri{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 36.5%;
+    margin-top: 50px;
 }
